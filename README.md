@@ -5,7 +5,7 @@
 ## Initializing
 1. Open your root folder
 2. ```git init``` to initialize an empty local repo
-3. ```git add remote <any name> <repo link>``` to add your repo from github.com
+3. ```git remote add <any name> <repo link>``` to add your repo from github.com
 4. ```git pull <the name u used> <branch_name>``` to add changes from your repo to your local machine
 
 - the name you use is not neccesarily the repo name it could be any name
