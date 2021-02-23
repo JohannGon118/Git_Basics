@@ -1,7 +1,7 @@
 # Git_Basics
 ## Names:
 1. Dyohan
-2. 
+2. Ramos
 ## Initializing
 1. Open your root folder
 2. ```git init``` to initialize an empty local repo
